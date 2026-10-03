@@ -58,7 +58,7 @@ Order_Items
     ▼
 Products
 
-## 📊 Analysis Performed
+📊 Analysis performed
 
 The project includes SQL analysis for customer behavior, product performance, orders, and revenue.
 
