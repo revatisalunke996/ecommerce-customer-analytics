@@ -26,15 +26,19 @@ It stores customer, product, order, and order-item information and uses SQL quer
 ## 🗄️ Database Tables
 
 ### Customers
+
 Stores customer details such as name, email, city, and registration date.
 
 ### Products
+
 Stores product names, categories, and prices.
 
 ### Orders
+
 Stores customer orders, order dates, and order status.
 
 ### Order Items
+
 Stores products included in each order and their quantities.
 
 ## 🔗 Database Relationships
